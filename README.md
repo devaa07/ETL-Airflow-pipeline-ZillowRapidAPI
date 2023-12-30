@@ -1,6 +1,7 @@
 # ZillowRapidAPI_pipeline_proj
 ETL pipleline using Airflow
 
+![Screen Shot 2023-12-30 at 1 03 50 AM](https://github.com/devaa07/ETL-Airflow-pipeline-ZillowRapidAPI/assets/126756574/3375e5b2-8d68-4b35-913c-11630140cd9a)
 
 
 # Step 1: Creating IAM User and generate Access keys for the user
